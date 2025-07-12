@@ -31,12 +31,12 @@ A Java-based desktop application that helps users manage and track their income 
 
 ## 📁 Project Structure
 
-ExpenseTracker/
-├── src/
-│ └── com/bryan/expensetracker/
-│ ├── Main.java
-├── resources/
-├── README.md
+ExpenseTracker/<br>
+├── src/<br>
+│ └── main/java/ExpenseTrackerApp.java<br>
+│ ├── test<br>
+├── Assets/<br>
+├── README.md<br>
 ├── .gitignore
 
 ---
@@ -46,6 +46,7 @@ ExpenseTracker/
 - 📊 Include graphical reports using charts (e.g., JavaFX or JFreeChart)
 - 🗃️ Include an SQLite or MySQL backend for information storage
 - 📤 Export transaction history to PDF format
+- 🗑️ Delete expenses
 
 ---
 
