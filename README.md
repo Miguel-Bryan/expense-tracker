@@ -24,5 +24,5 @@ A Java-based desktop application that helps users manage and track their income 
 
 ## 📸 Screenshots
 
-> *(Add images here if you can – they help your repo stand out)*
+> *(Add images here)*
 
