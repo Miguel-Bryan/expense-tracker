@@ -24,7 +24,7 @@ A Java-based desktop application that helps users manage and track their income 
 ## 📸 Screenshots
 
 ### ➕ Add Income
-![Add Form](Assets/initialAmount.png)
+![Add Form](Assets/initialAmout.png)
 
 ### 🧾 Main Dashboard
 ![Main UI](Assets/mainPage.png)
